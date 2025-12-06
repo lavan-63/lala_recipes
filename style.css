@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #faf7f2;
+}
+
+header {
+    background: #ff8c42;
+    padding: 1rem;
+    text-align: center;
+    color: white;
+}
+
+main {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+h2 {
+    border-bottom: 2px solid #ff8c42;
+    padding-bottom: 5px;
+}
+
+.recipe-card {
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}

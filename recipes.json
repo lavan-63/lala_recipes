@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Spaghetti Carbonara",
+        "ingredients": "200g spaghetti\n2 eggs\n100g pancetta\nSalt\nPepper",
+        "steps": "Boil pasta.\nCook pancetta.\nMix eggs and cheese.\nCombine everything."
+    },
+    {
+        "title": "Chocolate Chip Cookies",
+        "ingredients": "2 cups flour\n1 cup sugar\nChocolate chips",
+        "steps": "Mix ingredients.\nForm balls.\nBake 12 minutes."
+    }
+]
